@@ -1,6 +1,6 @@
 public class OperadoresAritimeticos {
     
-    public static void main (String[] args ) {
+    public static void main(String[] args) {
         double pao = 10.00;
         double queijo = 7.00;
         double chocolate = 1.00;
