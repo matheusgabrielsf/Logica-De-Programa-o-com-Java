@@ -15,5 +15,11 @@ public class EstruturaCondicional {
         } else {
             System.out.println("Está chovendo. Leve um guarda-chuva!");
         }
+        
+        // int idade = (22) ? "Você é maior de idade." : "Você é menor de idade."; // Operador ternário 
+
+        
+    
     }
+
 }
